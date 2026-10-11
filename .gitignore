@@ -6,3 +6,4 @@ mlflow.db-*
 mlflow_artifacts/
 mlruns/
 *.docx
+.idea/
