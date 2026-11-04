@@ -7,3 +7,4 @@ mlflow_artifacts/
 mlruns/
 *.docx
 .idea/
+plots/
